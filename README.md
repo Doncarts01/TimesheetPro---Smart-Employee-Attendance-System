@@ -87,4 +87,3 @@ Key Highlights:
 TimesheetPro is perfect for organizations looking to **modernize their attendance management**, **eliminate buddy punching**, and **improve workforce transparency** while leveraging cutting-edge geolocation and authentication technologies.
 
 
->>>>>>> 5f64bf1fb8c00af07b53e0ab0e471b21cdb93ae6
